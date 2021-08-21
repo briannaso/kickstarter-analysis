@@ -6,6 +6,7 @@ In the US, we see an overall success rate in mutliple categories.
 * The ***least*** sucessful campaigns took place in the **Food, Games, Photography, and Publishing** campaigns.
 ---
 ![US Campaign Outcomes by Category](https://user-images.githubusercontent.com/88520573/130335086-fe2cb7e7-cbd1-4e34-8e90-a84a59039c7a.png)
+
 ### US Highest and Lowest Theater Campaign Sucesseses Throughout the Year
 Successful theater campaigns reach its peak during the spring in May with the highest amount(39), while the Winter months dip to it's lowest (8) in December. There is a slight increase in October for both success and failed campaigns. While failed campaigns follow a similar trend, the disparity is most significant in May when campaigns have the most success in addition to failures increasing in the 3rd and 4th quarters of the year.
 
@@ -15,11 +16,14 @@ Successful theater campaigns reach its peak during the spring in May with the hi
 ## Let's Compare 
 In the United States, we found that approximately 58%(525) of Theatre campaigns were sucessful, while 38%(349) of them failed. Plays in Great Britain had a higher sucess rate at 76%, with only 22% failed. However, the same sucess could not be achieved for any other categories. 
 #### Campaign Outcomes in the United States (US)
+
 ![Theatre Kickstarter Campaign Outcomes (US) Pie Chart](https://user-images.githubusercontent.com/88520573/130334231-fe588105-86e9-4115-bda9-2d8786f0aad5.png)![Theatre Kickstarter Campaign Outcomes (US) Bar Graph](https://user-images.githubusercontent.com/88520573/130334278-72cb738b-5a40-4198-aa2b-07127027f448.png)
 #### Campaign Outcomes in Great Britain (GB)
+
 ![Theatre Kickstarter Campaign Outcomes (GB) Pie Chart](https://user-images.githubusercontent.com/88520573/130334216-f88cbd3d-d8e7-4dad-a591-195c27672959.png)![Theatre Kickstarter Campaign Outcomes (GB) Bar Graph](https://user-images.githubusercontent.com/88520573/130334312-6a1d1edd-dd29-4b02-a9bb-8f993e39f096.png)
 ---
 #### Play Outcomes in US vs. GB
+
 Overall, the US goals for plays were higher at about $7,100 whereas Great Britain's average goal was approximately $2,500 less. Great Britain's goal's aligned more with pledged targets that were slightly higher for the country at about $4,700. Pledged amounts were significantly less compared to goals for the US, meeting less than $4,000, nearly half of the goals for the US. Goals and Pledges over $20,000 significantly bring up the averages for the US, but do not infuence the spread between pledges and goals. 
 ![Play Outcomes in US vs  GB (Stacked Bar Graph)](https://user-images.githubusercontent.com/88520573/130334238-3aeacaf3-800c-4a33-bdf1-0ab0c1a57d33.png)
 ![Goals vs  Pledged for Plays (GB)](https://user-images.githubusercontent.com/88520573/130334754-538ebbe8-b21d-44f1-b430-2176b981ad47.png)
