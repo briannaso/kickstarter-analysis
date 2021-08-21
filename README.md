@@ -32,6 +32,7 @@ Overall, the US goals for plays were higher at about $7,100 whereas Great Britai
 ---
 ### What We Noticed
 A distinguishing factor in the differences correlate with the amount of data gathered for both the United States (US) and Great Britain (GB). The US accounts for over 70% of the data gathered in this report. In turn, this data is skewed to the left in favor of the US campaigns and more data will be needed to compare theatre campaigns in other countries.
+
 ![Total Kickstarter Data by Country](https://user-images.githubusercontent.com/88520573/130332896-b94d1c2b-cfb2-49cb-9661-8cc2a56e33eb.png)
 ---
 ### What We Recommend
