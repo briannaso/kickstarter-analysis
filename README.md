@@ -2,6 +2,7 @@
 
 ## Overview of Project
 This report will analyze trends for kickstarter campaigns in theater and plays, based on data in nine different categories of kickstarter campaigns across 21 countries. Special focus was placed on US theater campaigns looking at their financial goals, donations, pledge amount and success rates through the year.
+
 ---
 ### Purpose
 To provide Lauren with an analysis of trends in US theater campaigns for informed business decisions on her own kickstarter campaign in this market. 
