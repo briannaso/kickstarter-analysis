@@ -2,7 +2,6 @@
 
 ## Overview of Project
 This report will analyze trends for kickstarter campaigns in theater and plays, based on data in nine different categories of kickstarter campaigns across 21 countries. Special focus was placed on US theater campaigns looking at their financial goals, donations, pledge amount and success rates through the year.
-
 ---
 ### Purpose
 To provide Lauren with an analysis of trends in US theater campaigns for informed business decisions on her own kickstarter campaign in this market. 
@@ -21,7 +20,6 @@ In analyzing the goal ranges for successful campaigns, the majority at 73%, had 
 
 ### Challenges and Difficulties Encountered
 Lauren wanted to compare and analyze the same theater categories in Great Britain. There isn't a substantial amount of data comparable to the US, however, some data may be comparable such as the goal versus pledged amounts for the plays subcategory. This shows that US campaign goals are almost twice as much as their pledged amounts. Great Britain showed goals that were within $1,000 of their pledged amounts. An important factor here is that data collected from the US in this category is about five times more than Great Britain. 
-
 
 ## Results
 ---
