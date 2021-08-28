@@ -40,3 +40,4 @@ A distinguishing factor in the differences correlate with the amount of data gat
 ### What are some other possible tables and/or graphs that we could create?
 
 Other charts we could create based on the data would be launch outcomes based on year to analyze differences, a subcategorical look at the type of plays (such as comedy, drama, historical fiction, etc.), a bar graph or pie chart of backer count for country, and an analysis of staff picks. A funding analysis by parent and subcategories could also be helpful to compare gaols by country. If age groups were available in the data, this could also help narrow down audience types for these campaigns.
+## Hi, My name is Brianna
